@@ -2,7 +2,7 @@
 👋 Hi, I’m Kundan<br>I’m working on  Dhruv.AI (www.dhruvai.in), — an innovative project focused on developing integrated drone systems, AI model, and a custom web platform for Drones. <br><br>🔬 Currently Exploring:<br><br>Deep Learning<br>Machine Learning<br>Data Structures & Algorithms<br>🤝 Looking for Collaborations on AI model development — especially in deep learning, computer vision, and intelligent automation.<br><br>🛠️ What I'm Working On:<br><br>Building and deploying AI models for real-time drone applications<br>Designing intelligent systems at the intersection of hardware and AI<br>Learning and implementing cutting-edge ML techniques<br>📫 Let’s Connect:-<br>Feel free to reach out if you're passionate about AI, drones, or want to collaborate on impactful tech!
 
 
-## 🌐 Socials:
+## 🌐 Socials:-
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kundanrajsingh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kundan-raj-singh-714015283/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/KUNDANR16564450) 
 
 # 💻 Tech Stack:
